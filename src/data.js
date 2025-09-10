@@ -14,7 +14,7 @@ export const personalData = {
     github: "https://www.github.com/Chuthuka/",
     linkedin: "https://www.linkedin.com/in/chuthuka-dedunu1",
     facebook: "https://www.facebook.com/share/1CUeGiUCna/?mibextid=wwXIfr",
-    instagram: "https://www.instagram.com/nipun__s/",
+    instagram: "https://www.facebook.com/share/1CUeGiUCna/?mibextid=wwXIfr",
     whatsapp: "https://wa.me/94766453116",
   },
   roles: [
