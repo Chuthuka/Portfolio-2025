@@ -291,7 +291,7 @@ export const sectionsData = {
     ctaButtons: [
       {
         text: "Download CV",
-        link: "/assets/cv/ChuthukaDedunu_CV.pdf",
+        link: "publc/assets/cv/ChuthukaDedunu_CV.pdf",
         type: "primary",
         id: "download-cv",
       },
