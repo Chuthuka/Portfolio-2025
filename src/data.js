@@ -228,12 +228,12 @@ export const certificationsData = [
     "verificationLink": "https://builderx.lk/verify"
 },
   {
-    "title": "AI For All",
-    "issuer": "Intel and CBSE",
-    "date": "20th August 2025",
-    "description": "This is to certify that C. D. Hettiarachchi has successfully completed the AI for All Programme jointly organised by Intel and CBSE.",
-    "badge": "/assets/images/certifications/C.D. Hettiarachchi_2.jpg",
-    "verificationLink": "https://www.credly.com/go/9dZyqSt8muihsdGopF8kdQ"
+    "title": "Data Science Foundations - Level 1",
+    "issuer": "IBM",
+    "date": "August 20, 2025",
+    "description": "Successfully satisfied the requirements for the Data Science Foundations - Level 1 badge.",
+    "badge": "/assets/images/certifications/C.D. Hettiarachchi_2.jpg",
+    "verificationLink": "https://www.credly.com/badges/d3731bd0-27d5-4148-9f8e-1b6bb946c2ed"
 },
   {
     title: "Postman API Student Expert",
