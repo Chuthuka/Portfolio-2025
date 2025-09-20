@@ -4,7 +4,7 @@ export const personalData = {
   fullName: "Chuthuka Dedunu Hettiarachchi",
   age: 23,
   illustration : "/assets/images/photos/profile_Illustration.png",
-  profilePic: "/assets/images/photos/ProfilePic.jpg",
+  profilePic: "/assets/images/photos/cv2.png",
   location: "Kiribathgoda, Sri Lanka",
   email: "chuthuka097dedunu@gmail.com",
   phone: "+94 76 645 3116",
