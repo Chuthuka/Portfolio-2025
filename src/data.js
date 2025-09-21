@@ -224,7 +224,7 @@ export const certificationsData = [
     "issuer": "BuilderX",
     "date": "30th August 2025",
     "description": "This certificate confirms that C. D. Hettiarachchi participated in and successfully completed the Artificial Intelligence (AI) Workshop.",
-    "badge": "/assets/images/certifications/C.D. Hettiarachchi_1.jpg",
+    "badge": "/assets/images/certifications/builderx.jpg",
     "verificationLink": "https://builderx.lk/verify"
 },
   {
@@ -232,7 +232,7 @@ export const certificationsData = [
     "issuer": "IBM",
     "date": "August 20, 2025",
     "description": "Successfully satisfied the requirements for the Data Science Foundations - Level 1 badge.",
-    "badge": "/assets/images/certifications/C.D. Hettiarachchi_2.jpg",
+    "badge": "/assets/images/certifications/datascience.jpg",
     "verificationLink": "https://www.credly.com/badges/d3731bd0-27d5-4148-9f8e-1b6bb946c2ed"
 },
   {
@@ -240,7 +240,7 @@ export const certificationsData = [
     issuer: "Postman",
     date: "March 2025",
     description: "Validated core API development skills using Postman tools.",
-    badge: "/assets/images/certifications/Postman API Fundamentals Student Expert.png",
+    badge: "/assets/images/certifications/postman.png",
     verificationLink: "https://badgr.com/public/assertions/nTENLduoTBCkvJ3Mo9qdJg?identity__email=cdhettiarachchi@std.foc.sab.ac.lk",
   },
   {
@@ -248,7 +248,7 @@ export const certificationsData = [
     "issuer": "Coursera Project Network",
     "date": "14th March 2025",
     "description": "This guided project verifies that C. D. Hettiarachchi successfully completed the hands-on project 'Work with Components in Figma' and can demonstrate proficiency in the specified topic.",
-    "badge": "/assets/images/certifications/C.D. Hettiarachchi_3.jpg",
+    "badge": "/assets/images/certifications/figma.jpg",
     "verificationLink": "https://www.coursera.org/account/accomplishments/verify/H6BT682W7RPQ"
 },
  {
@@ -256,7 +256,7 @@ export const certificationsData = [
     "issuer": "University of Moratuwa - Centre for Open & Distance Learning",
     "date": "11th December 2023",
     "description": "This certificate verifies that C. D. Hettiarachchi successfully completed the online learning program in Web Design for Beginners.",
-    "badge": "/assets/images/certifications/C.D. Hettiarachchi_6.jpg",
+    "badge": "/assets/images/certifications/moratuwa.jpg",
     "verificationLink": "https://open.uom.lk/lms/mod/customcert/verify_certificate.php/wxZv2EPQe6"
 },
   {
@@ -264,7 +264,7 @@ export const certificationsData = [
     "issuer": "Simplilearn",
     "date": "July 01, 2024",
     "description": "This certificate recognizes C. D. Hettiarachchi for successfully completing the Power BI for Beginners training program.",
-    "badge": "/assets/images/certifications/C.D. Hettiarachchi_5.jpg",
+    "badge": "/assets/images/certifications/powerbi.jpg",
     "verificationLink": "https://simpli-web.app.link/e/qaPHNIaUMVb"
 },
 ];
