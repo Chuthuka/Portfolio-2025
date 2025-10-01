@@ -195,15 +195,18 @@ export const projectsData = [
   viewButton: true
   },
   {
-    title: "Vehicle Service Management System",
-    description: "Web app to manage vehicle services using PHP and MySQL.",
-    image: "/assets/images/projects/service.webp",
-    tags: ["PHP", "JavaScript", "HTML", "MySQL"],
-    demoLink: "",
-    codeLink: "https://github.com/Chuthuka",
-    category: "web",
-    featured: true,
-    viewButton: true,
+    
+  title: "PlantCare AI",
+  description: "AI-powered web app for plant disease detection and care guidance. Users can scan plants, detect diseases instantly, get treatment steps, browse a plant guide, and track history.",
+  image: "/assets/images/projects/plantcare.webp",
+  tags: ["JavaScript", "HTML", "CSS", "Node.js", "Express", "ml5.js", "Google Generative AI"],
+  demoLink: "", 
+  codeLink: "https://github.com/Chuthuka/Virtual-Plant-Care",
+  category: "web",
+  featured: true,
+  viewButton: true
+
+
   },
   {
     title: "Checkmate 3D",
