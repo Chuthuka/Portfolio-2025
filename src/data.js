@@ -198,7 +198,7 @@ export const projectsData = [
     
   title: "PlantCare AI",
   description: "AI-powered web app for plant disease detection and care guidance. Users can scan plants, detect diseases instantly, get treatment steps, browse a plant guide, and track history.",
-  image: "/assets/images/projects/plantcare.webp",
+  image: "/assets/images/projects/virtualPlantCare.png",
   tags: ["JavaScript", "HTML", "CSS", "Node.js", "Express", "ml5.js", "Google Generative AI"],
   demoLink: "", 
   codeLink: "https://github.com/Chuthuka/Virtual-Plant-Care",
